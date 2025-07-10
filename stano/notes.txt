@@ -56,23 +56,3 @@ nasledne moze user
 
 
 pomedzi to robit po fazach ukladanie do gitu (odtienene pre usera)
-
-
-
-co je ucel stranky
-- firemna
-- osobna
-- produktova
-- kampanova
-- komunitna
-
-podme sa bavit o rozsahu (mnozstve obsahu). Klasika je, ze
-- co robis
-- o tebe
-- referencie
-- projekty
-[tu by boli podla ucelu]
-
----
-
-
