@@ -13,7 +13,7 @@ with our pre-setup (GIT project starterkit) which will drive him to the result a
 - ✅ **01-about-project.md** - Project definition, goals, audience, value proposition
 - ✅ **02-website-structure.md** - Site architecture and navigation planning
 - ✅ **03-content-strategy.md** - Content types, organization, and management
-- **04-user-journeys.ms** - Personas, user journeys, how visitors will navigate and consume content
+- 🛠️ **04-personas-and-user-journeys.md** - Personas, user journeys, how visitors will navigate and consume content
 - **05-functional-requirements.md** - Features needed (forms, newsletter, multilang, etc.)
 
 ## Design and content preparation

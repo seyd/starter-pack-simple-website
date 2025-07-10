@@ -35,7 +35,13 @@ Content strategy analysis determines the content types, organization, and manage
 
 Workflow: [create-03-content-strategy.md](./.cursor/workflows/create-03-content-strategy.md)
 
-### 4. Individual change requests
+### 4. Personas and user journeys
+
+Personas and user journeys identifies the key user types (personas) who will visit the website and maps their specific needs, motivations, and interaction patterns. This ensures the site structure and content effectively serve different audiences before moving into detailed design and development.
+
+Workflow: [create-04-personas-and-user-journeys.md](./.cursor/workflows/create-04-personas-and-user-journeys.md)
+
+### 5. Individual change requests
 
 Workflow: none
 
