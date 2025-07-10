@@ -91,7 +91,9 @@ Question to ask: "What content types will you have?", "How will content be organ
 
 10. **IMPORTANT:** - check the output in `02-website-structure.md` again, and every section which isn't mentioned in the "Output template" section below must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place.
 
-11. Finish this phase/workflow.
+11. **IMPORTANT:** for the new document `02-website-structure.md` run the workflow [review-generated-document.md](./.cursor/workflows/review-generated-document.md)
+
+12. Finish this phase/workflow.
 
 ### Enforcement
 
