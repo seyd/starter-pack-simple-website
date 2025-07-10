@@ -44,7 +44,7 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
 
 - Later then ask for other user journeys if needed.
 
-- Try also the reverse approach - what type of users you don't want to have on the website and why.
+- Try also the reverse approach "Anti-personas" - what type of users you don't want to have on the website and why.
 
 - Then ask site by site (from the document **[doc/02-website-structure.md](/doc/02-website-structure.md)**) what personas will use this content and how and why?
 
@@ -52,16 +52,22 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
 
 - Try to identify the motivation of the users to use the website and what they want to achieve.
 
+- Ask for age range, location, interests, attitudes, etc.
+
 - Distinct between first time users, one-time users and returning users.
 
-- How do they find the website?
+- Ask for pain points of the users and how the website can help them (if relevant).
+
+- Identify Alternative / Edge-case Flows (if needed).
 
 - Ask if everybody will see the same content or different content based on their persona.
 - Ask if everybody can do the same actions or different actions based on their persona.
 
-- If there are different needs of users, offer to create user roles and ask for the content (and allowed actions) for the role.
+- How do they find the website? Ask for entry points and exit points for each persona.
 
-- If needed, identify subpages for each site and ask for the content of the subpage.
+- Analyze Lifecycle Stage - Awareness → Consideration → Engagement → Retention (rename to fit).
+
+- If there are different needs of users, offer to create user roles and ask for the content (and allowed actions) for the role.
 
 - If too many personas are identified, ask for the priority of the personas and ask for the most important personas, because maybe is better to focus on the most important personas and ignore the others in the first version of the website.
 
@@ -77,7 +83,7 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
      - **[doc/01-about-project.md](/doc/01-about-project.md)**
      - **[doc/02-website-structure.md](/doc/02-website-structure.md)** - e.g. add new pages or subpages
 
-3. **IMPORTANT:** - check the output in `04-personas-and-user-journeys.md` again, and every section which isn't mentioned in the "Output template" section below must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place.
+3. **IMPORTANT:** - check the output in `04-personas-and-user-journeys.md` again, and every section which isn't the topic of the current phase (Personas and user journeys) must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place. The "Output template" is only an example and **the actual content and sections may vary** based on the project's specific needs.
 
 4. **IMPORTANT:** for the new document `04-personas-and-user-journeys.md` run the workflow [review-generated-document.md](/.cursor/workflows/review-generated-document.md)
 
@@ -87,4 +93,36 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
 
 # Personas and user journeys
 
-... not yet defined
+## Primary Personas
+
+### 1. Friends
+
+- **Who:** My close friends
+- **Role:** Main audience, frequent visitors
+- **Behavior:** Interested in funny stories, cultural insights, and entertainment
+- **Access:** Direct links to home page and specific posts
+- **Success indicator:** Enjoyment of stories and learning new things about travel/culture
+
+### 2. Etc.
+
+## Secondary Personas <optional>
+
+...
+
+## User Journey Patterns
+
+### Content Discovery
+
+...
+
+### Page Usage Patterns
+
+...
+
+### Engagement Patterns
+
+...
+
+## Content Strategy Alignment
+
+...
