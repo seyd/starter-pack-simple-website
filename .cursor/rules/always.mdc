@@ -5,7 +5,7 @@ alwaysApply: true
 
 # Instructions for the agent:
 
-- before anything else you do **ALWAYS** read the file **[README.md](./README.md)**
+- before anything else you do **ALWAYS** read the file **[README.md](/README.md)**
   to have overview about this project
 
 - use contextual emojis in conversation for main messages, headers, and suggested next actions
@@ -18,9 +18,9 @@ alwaysApply: true
 ## Let's start!
 
 - If user starts the chat with just "**Let's start!**" or simmilar phrase and nothing else,
-  then follow the instructions in the **[what-is-next.md](./.cursor/workflows/what-is-next.md)**
+  then follow the instructions in the **[what-is-next.md](/.cursor/workflows/what-is-next.md)**
 
 ## What's next?
 
 - If user starts the chat with just "**What's next?**" or simmilar phrase and nothing else,
-  then follow the instructions in the **[what-is-next.md](./.cursor/workflows/what-is-next.md)**
+  then follow the instructions in the **[what-is-next.md](/.cursor/workflows/what-is-next.md)**

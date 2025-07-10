@@ -15,31 +15,31 @@ This document traces the current phase and executes the corresponding workflow.
 
 Disclaimer phase ensures the user understands this starter pack is designed for simple, static websites and explicitly does NOT include advanced features. This sets proper expectations and prevents users from going through the entire workflow only to discover the limitations don't match their requirements.
 
-Workflow: [welcomne.md](./.cursor/workflows/welcome.md)
+Workflow: [welcomne.md](/.cursor/workflows/welcome.md)
 
 ### 1. Initial discovery
 
 Initial discovery is the focused kickoff phase where we capture the project’s core purpose, audience, value proposition, success metrics, and key constraints through a structured questionnaire. Its goal is to establish a shared strategic foundation before any site architecture or design work begins.
 
-Workflow: [create-01-about-project.md](./.cursor/workflows/create-01-about-project.md)
+Workflow: [create-01-about-project.md](/.cursor/workflows/create-01-about-project.md)
 
 ### 2. Website structure design
 
 Website structure design translates the discovery insights into a high-level content map—laying out the core pages for the main navigation and assigning auxiliary pages (e.g., terms and coditions, GDPR, privacy) to a footer (secondary menu) before any detailed layout or content work begins.
 
-Workflow: [create-02-website-structure.md](./.cursor/workflows/create-02-website-structure.md)
+Workflow: [create-02-website-structure.md](/.cursor/workflows/create-02-website-structure.md)
 
 ### 3. Content strategy analysis
 
 Content strategy analysis determines the content types, organization, and management approach for each page in the website structure, establishing what content is needed, how it's categorized, and how it will be maintained over time.
 
-Workflow: [create-03-content-strategy.md](./.cursor/workflows/create-03-content-strategy.md)
+Workflow: [create-03-content-strategy.md](/.cursor/workflows/create-03-content-strategy.md)
 
 ### 4. Personas and user journeys
 
 Personas and user journeys identifies the key user types (personas) who will visit the website and maps their specific needs, motivations, and interaction patterns. This ensures the site structure and content effectively serve different audiences before moving into detailed design and development.
 
-Workflow: [create-04-personas-and-user-journeys.md](./.cursor/workflows/create-04-personas-and-user-journeys.md)
+Workflow: [create-04-personas-and-user-journeys.md](/.cursor/workflows/create-04-personas-and-user-journeys.md)
 
 ### 5. Individual change requests
 
