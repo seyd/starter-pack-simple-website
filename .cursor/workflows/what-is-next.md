@@ -43,9 +43,29 @@ Workflow: [create-04-personas-and-user-journeys.md](/.cursor/workflows/create-04
 
 ### 5. Functional requirements analysis
 
+Functional requirements analysis identifies the features needed for the website based on the project's specific needs and constraints.
+
 Workflow: [create-05-functional-requirements.md](/.cursor/workflows/create-05-functional-requirements.md)
 
-### 6. Individual change requests
+### 6. Media content analysis
+
+Media content analysis defines comprehensive media requirements including image specifications, video integration strategies, and asset organization systems. This phase establishes optimization standards and accessibility compliance.
+
+Workflow: [create-06-media-content.md](/.cursor/workflows/create-06-media-content.md)
+
+### 7. Textual content analysis
+
+Textual content analysis establishes content guidelines including brand voice, tone standards, etc., then creates actual written content for all essential website pages. This phase transforms previous strategic insights into practical, ready-to-use text that aligns with user personas and business goals.
+
+Workflow: [create-07-textual-content.md](/.cursor/workflows/create-07-textual-content.md)
+
+### 8. Technical specifications
+
+Technical specifications define the technical requirements for the website, including the tech stack, hosting platform, deployment strategy, and maintenance schedule.
+
+Workflow: [create-08-technical-specifications.md](/.cursor/workflows/create-08-technical-specifications.md)
+
+### 9. Individual change requests
 
 Workflow: none
 

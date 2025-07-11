@@ -15,6 +15,10 @@ Check if file **[doc/01-about-project.md](/doc/01-about-project.md)** exists.
 - check if everything is filled completely
 - if not, ask additional questions to fulfill the rest of the file [doc/01-about-project.md](/doc/01-about-project.md)
 
+### Always:
+
+- **IMPORTANT:** Always read and follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
+
 ---
 
 ## Initial questionnaire
@@ -78,12 +82,12 @@ Ask question one by one and for each question:
 
 ### Conversation Rules
 
-1. Follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
+1.  **IMPORTANT:** Follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
 
-2. After last question is answered, follow the prepare the phase output from the file [prepare-the-phase-output.md](/.cursor/workflows/prepare-the-phase-output.md) and then:
+2.  **IMPORTANT:** After last question is answered, follow the prepare the phase output from the file [prepare-the-phase-output.md](/.cursor/workflows/prepare-the-phase-output.md) and then:
 
-   - write the output to the file **[doc/01-about-project.md](/doc/01-about-project.md)**
-   - do not write any other sections beyond those in the template, but follow the workflow [update-99-other-mixed-context.md](/.cursor/workflows/update-99-other-mixed-context.md)
+- write the output to the file **[doc/01-about-project.md](/doc/01-about-project.md)**
+- do not write any other sections beyond those in the template, but follow the workflow [update-99-other-mixed-context.md](/.cursor/workflows/update-99-other-mixed-context.md)
 
 3. **IMPORTANT:** check the output in `01-about-project.md` again, and every section which isn't mentioned in the "Output template" section below must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place.
 

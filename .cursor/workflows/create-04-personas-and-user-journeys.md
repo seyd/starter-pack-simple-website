@@ -16,6 +16,10 @@ Check if file **[doc/04-personas-and-user-journeys.md](/doc/04-personas-and-user
   - if not, ask additional questions to fulfill the rest of the file [doc/04-personas-and-user-journeys.md](/doc/04-personas-and-user-journeys.md)
   - if yes, ask the user if he wants to change the current content (write it out) or he wants to continue to the next phase
 
+### Always:
+
+- **IMPORTANT:** Always read and follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
+
 ---
 
 ## Personas and user journeys
@@ -73,21 +77,21 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
 
 ### Conversation Rules
 
-1. Follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
+1.  **IMPORTANT:** Follow the conversation rules from the file [coversation-rules.md](/.cursor/workflows/coversation-rules.md)
 
-2. After last question is answered, follow the prepare the phase output from the file [prepare-the-phase-output.md](/.cursor/workflows/prepare-the-phase-output.md) and then:
+2.  **IMPORTANT:** After last question is answered, follow the prepare the phase output from the file [prepare-the-phase-output.md](/.cursor/workflows/prepare-the-phase-output.md) and then:
 
-   - write the output to the file **[doc/04-personas-and-user-journeys.md](/doc/04-personas-and-user-journeys.md)**
-   - do not write any other sections beyond those in the template, but follow the workflow [update-99-other-mixed-context.md](/.cursor/workflows/update-99-other-mixed-context.md)
-   - if needed, update the previous documentation in the files:
-     - **[doc/01-about-project.md](/doc/01-about-project.md)**
-     - **[doc/02-website-structure.md](/doc/02-website-structure.md)** - e.g. add new pages or subpages
+    - write the output to the file **[doc/04-personas-and-user-journeys.md](/doc/04-personas-and-user-journeys.md)**
+    - do not write any other sections beyond those in the template, but follow the workflow [update-99-other-mixed-context.md](/.cursor/workflows/update-99-other-mixed-context.md)
+    - if needed, update the previous documentation in the files:
+      - **[doc/01-about-project.md](/doc/01-about-project.md)**
+      - **[doc/02-website-structure.md](/doc/02-website-structure.md)** - e.g. add new pages or subpages
 
-3. **IMPORTANT:** - check the output in `04-personas-and-user-journeys.md` again, and every section which isn't the topic of the current phase (Personas and user journeys) must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place. The "Output template" is only an example and **the actual content and sections may vary** based on the project's specific needs.
+3.  **IMPORTANT:** - check the output in `04-personas-and-user-journeys.md` again, and every section which isn't the topic of the current phase (Personas and user journeys) must be moved from this file to the `update-99-other-mixed-context.md` file and organized there to the right place. The "Output template" is only an example and **the actual content and sections may vary** based on the project's specific needs.
 
-4. **IMPORTANT:** for the new document `04-personas-and-user-journeys.md` run the workflow [review-generated-document.md](/.cursor/workflows/review-generated-document.md)
+4.  **IMPORTANT:** for the new document `04-personas-and-user-journeys.md` run the workflow [review-generated-document.md](/.cursor/workflows/review-generated-document.md)
 
-5. Finish this phase/workflow.
+5.  Finish this phase/workflow.
 
 ### Output template:
 
