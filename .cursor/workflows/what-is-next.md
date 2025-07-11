@@ -41,7 +41,11 @@ Personas and user journeys identifies the key user types (personas) who will vis
 
 Workflow: [create-04-personas-and-user-journeys.md](/.cursor/workflows/create-04-personas-and-user-journeys.md)
 
-### 5. Individual change requests
+### 5. Functional requirements analysis
+
+Workflow: [create-05-functional-requirements.md](/.cursor/workflows/create-05-functional-requirements.md)
+
+### 6. Individual change requests
 
 Workflow: none
 
