@@ -5,7 +5,7 @@
 ## Instructions for the agent
 
 - This workflow is used after the generation of a new document <document name> (mentioned in the context before)
-- Say to the user that a new document has been generated and recommend to open/read and review it.
+- Say to the user that a new document has been generated and recommend to open/read and review it and print the link to the document in the chat with icon 📄 <document name> (and src of the link will point to the exact path of the document in the project) and add text "(click to open)"
 
 - Stop here and ask the user:
 
