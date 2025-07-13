@@ -64,8 +64,9 @@ Read also the [update-99-other-mixed-context.md](/.cursor/workflows/update-99-ot
 Analyze all previous documentation and autonomously decide on:
 
 - **Core framework configuration** (Astro 4 setup, routing, pages structure)
-- **UI component strategy** (shadcn/ui implementation, component architecture)
-- **Styling approach** (Tailwind CSS configuration, responsive breakpoints)
+- **Styling**: Global CSS (common styles + reusables e.g. .btn-primary) + Tailwind CSS
+- **Responsive**: Mobile-first approach (Tailwind CSS configuration, responsive breakpoints)
+- **UI component strategy** (component architecture)
 - **Build and deployment pipeline** (Cloudflare Pages setup, build optimization)
 - **Performance optimization** (image optimization, code splitting, caching)
 
@@ -146,8 +147,9 @@ Define testing approach:
 ### Frontend Framework
 
 - **Framework:** Astro 4.x (Static Site Generator)
-- **UI Components:** shadcn/ui with React islands for interactive components
-- **Styling:** Tailwind CSS with mobile-first responsive design
+- **Styling**: Global CSS (common styles + reusables e.g. .btn-primary) + Tailwind CSS
+- **Responsive**: Mobile-first approach (Tailwind CSS configuration, responsive breakpoints)
+- **UI component strategy** (component architecture)
 - **Build target:** Static HTML with minimal JavaScript
 
 ### Development Environment

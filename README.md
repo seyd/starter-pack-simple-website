@@ -58,8 +58,10 @@ The project is structured to guide users through a **chat-driven development pro
 Essential components that form the foundation of every project:
 
 - **Frontend**: Astro 4 (static site generator), HTML, CSS, JavaScript
-- **UI Components**: shadcn/ui (React islands)
+- **Backend**: Astro Actions (server-only logic)
+- **Styling**: Global CSS (common styles + reusables e.g. .btn-primary) + Tailwind CSS
 - **Responsive**: Mobile-first design approach (Tailwind CSS)
+- **UI Components**: React islands
 - **Analytics**: Cloudflare Web Analytics
 - **SEO**: Astro SEO integration + Sitemap
 - **Hosting**: Cloudflare Pages
