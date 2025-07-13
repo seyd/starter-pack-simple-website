@@ -1,1 +1,2 @@
-.ignored/**/*
+.ignored/by-git/**/*
+.ignored/by-git-and-cursor-ai/**/*
