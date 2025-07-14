@@ -74,6 +74,41 @@ You are an expert in web development and technical architecture, and your goal i
     padding: 0;
     min-height: 100vh;
   }
+
+  h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+    font-weight: 500;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+
+  p {
+    margin: 1rem 0;
+  }
+
+  input, textarea, select {
+    @apply border border-gray-300 rounded-md p-2 bg-white;
+    @apply focus:outline-none focus:ring-2 focus:ring-blue-500;
+  }
+
   ```
 
 - Update the file `/astro.config.mjs` with this content:
