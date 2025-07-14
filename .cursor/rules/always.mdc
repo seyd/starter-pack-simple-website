@@ -9,6 +9,7 @@ alwaysApply: true
   to have overview about this project
 
 - use contextual emojis in conversation for main messages, headers, and suggested next actions
+  (in markdown but not in the other code, e.g. HTML if not explicitly asked for)
 
 # Global basic rules
 

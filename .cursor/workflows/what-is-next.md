@@ -65,7 +65,11 @@ Technical specifications define the technical requirements for the website, incl
 
 Workflow: [create-08-technical-specifications.md](/.cursor/workflows/create-08-technical-specifications.md)
 
-### 9. Individual change requests
+### 9. Development setup
+
+Workflow: [create-09-development-setup.md](/.cursor/workflows/create-09-development-setup.md)
+
+### 10. Individual change requests
 
 Workflow: none
 
