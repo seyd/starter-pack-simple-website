@@ -82,6 +82,7 @@ Workflow: none
 - if current phase is not `none`, execute the phase mentioned as the current phase.
 - when you start any phase, update the value of the `Current phase` in this document with the name (header) of that phase (with the number of the phase included)
 - read and follow the instruction of the workflow file of the current phase
+- **IMPORTANT**: always follow the workflow [update-tasks.md](/.cursor/workflows/update-tasks.md)
 - when you finish the phase (workflow), update the value of the `Current phase` to the name of the following phase, and write a success message starting with the 🎉 emoji in **bold font** indicating that the phase has been successfully completed
 - when the is no other phase left, just leave the value of the `Current phase` pointing to the last phase
 - let the user know you have finnished the current phase and ask him if he wants to continue to the next one (or when it is the last phase, if he want to do this phase again)
