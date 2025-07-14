@@ -118,12 +118,12 @@ You are an expert in web development and technical architecture, and your goal i
     with the comment above: "// Enable Tailwind CSS to support Tailwind CSS classes."
 
 - Remove example component from the file `/src/components/` (e.g. "Counter")
-  and remove it completely from the project (e.g. from the `/src/pages/index.astro`).
+- remove removed example component completely from the project (e.g. from the `/src/pages/index.astro`).
 
 - Create a new file `/src/layouts/MainLayout.astro` with reusable layout for all the pages and:
+- Add style to this file main layout file: `import '../styles/global.css';`
 
-  - add style to this file: `import '../styles/global.css';`
-  - implement this layout to the `/src/pages/index.astro` file
+- Implement this reusable layout to the `/src/pages/index.astro` file
 
 - Create a new components "Header" and "Footer" (empty for now) and add them to the file `/src/layouts/MainLayout.astro`
 

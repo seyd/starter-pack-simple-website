@@ -12,11 +12,13 @@
 
 - if the task has no id yet, create a new unique id for the task as `task-00X` starting from 001 and incrementing by 1 the biggest task number in the file
 
-- create a new file in the folder `./docs/tasks/` with the name of the task id and create a link to the task in the file `TASKS.md` with the following format:
+- create a new file in the folder `/docs/tasks/` with the name of the task id and create a link to the task in the file `TASKS.md` with the following format:
 
   ```
   - [**[task-00X](/docs/tasks/task-00X.md)**] <task name>
   ```
+
+  **Important**: the link must start with `/docs/tasks/` (to function properly) and the file must be in the folder `/docs/tasks/`!
 
 - In the new task detail file:
 
@@ -42,4 +44,4 @@
 
   - write summary of the task to the task detail file
 
-  - move the task in the file `TASKS.md` to the section `✅ Done` and add the date and time of completion
+  - move the task in the file `TASKS.md` to the section `✅ Done` and add the date and time of completion (ask for current date and time with a command)
