@@ -41,7 +41,7 @@ You are an expert in web development and technical architecture, and your goal i
 
 - Then add to the file `/astro/.gitignore` (append at the end of the file) content of the file [.gitignore](/.gitignore)
 
-- Then add to the file `/.cursorignore` this content:
+- Then append to the file `/.cursorignore` this content:
 
   ```
   # dependencies
@@ -75,38 +75,40 @@ You are an expert in web development and technical architecture, and your goal i
     min-height: 100vh;
   }
 
-  h1 {
-    font-size: 2.25rem;
-    font-weight: 700;
-  }
+  @layer base {
+    h1 {
+      font-size: 2.25rem;
+      font-weight: 700;
+    }
 
-  h2 {
-    font-size: 2rem;
-    font-weight: 600;
-  }
+    h2 {
+      font-size: 2rem;
+      font-weight: 600;
+    }
 
-  h3 {
-    font-size: 1.75rem;
-    font-weight: 500;
-  }
+    h3 {
+      font-size: 1.75rem;
+      font-weight: 500;
+    }
 
-  h4 {
-    font-size: 1.5rem;
-    font-weight: 500;
-  }
+    h4 {
+      font-size: 1.5rem;
+      font-weight: 500;
+    }
 
-  h5 {
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
+    h5 {
+      font-size: 1.25rem;
+      font-weight: 500;
+    }
 
-  p {
-    margin: 1rem 0;
-  }
+    p {
+      margin: 1rem 0;
+    }
 
-  input, textarea, select {
-    @apply border border-gray-300 rounded-md p-2 bg-white;
-    @apply focus:outline-none focus:ring-2 focus:ring-blue-500;
+    input, textarea, select {
+      @apply border border-gray-300 rounded-md p-2 bg-white;
+      @apply focus:outline-none focus:ring-2 focus:ring-blue-500;
+    }
   }
 
   ```
@@ -133,7 +135,7 @@ You are an expert in web development and technical architecture, and your goal i
 
 - Print the success message: "✅ Development setup completed successfully"
   and recommend the user to commit this state of the project with the command:
-  `git add . && git commit -m "✅ Development setup completed successfully"`
+  `git add . && git commit -m "+ Development setup completed successfully"`
   (and ask user if he wants your help with this command - to run it for him)
 
 - Finish this phase/workflow.

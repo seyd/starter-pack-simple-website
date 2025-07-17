@@ -16,6 +16,12 @@ alwaysApply: true
 - **Global recommended thinking model:** claude-4-sonnet (thinking)
 - **Global recommended non-thinking model:** claude-4-sonnet
 
+# Context rules
+
+- if generating a text for website, follow the specification in **[07-textual-content.md](/doc/07-textual-content.md)**
+
+- if generating a code, follow the specification in **[08-technical-specifications.md](/doc/08-technical-specifications.md)**
+
 ## Let's start!
 
 - If user starts the chat with just "**Let's start!**" or simmilar phrase and nothing else,

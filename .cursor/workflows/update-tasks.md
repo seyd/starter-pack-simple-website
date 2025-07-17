@@ -44,4 +44,8 @@
 
   - write summary of the task to the task detail file
 
-  - move the task in the file `TASKS.md` to the section `✅ Done` and add the date and time of completion (ask for current date and time with a command)
+  - move the task in the file `TASKS.md` to the section `✅ Done` and add the date and time of completion
+
+  - **IMPORTANT:** always ask for current date and time with a shell command
+
+  - order the tasks in the `✅ Done` section by date of completion (by datetime asc), so add new tasks at the end of the section
