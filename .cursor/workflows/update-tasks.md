@@ -36,7 +36,14 @@
     ## ✅ Done
     ```
 
-- add the task to the appropriate section in the file `TASKS.md`
+- Task workflow:
+  - all TODOs are listed in "📋 Todo" section at first
+
+  - if you start working on the specific task, move it in the "🔨 In Progress" section
+
+  - when finishing the task, move ti into the "✅ Done" section
+
+- add this new task (task file) to the appropriate section in the file `TASKS.md`
 
 - if the task is already in the file `TASKS.md`, update the task with the new information
 
