@@ -40,8 +40,9 @@ You are an expert in web development and technical architecture, and your goal i
   - `--yes` - Skip all prompts and accept defaults automatically
 
 - Then add to the file `/astro/.gitignore` (append at the end of the file) content of the file [.gitignore](/.gitignore)
+  (remove duplicities like `node_modules/`)
 
-- Then append to the file `/.cursorignore` this content:
+- Then append to the file `/.cursorignore` this content (if not already exists):
 
   ```
   # dependencies

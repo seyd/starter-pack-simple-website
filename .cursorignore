@@ -1,2 +1,4 @@
 .ignored/by-cursor-ai/**/*
 .ignored/by-git-and-cursor-ai/**/*
+
+node_modules/
