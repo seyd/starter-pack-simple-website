@@ -15,7 +15,7 @@ This document traces the current phase and executes the corresponding workflow.
 
 Disclaimer phase ensures the user understands this starter pack is designed for simple, static websites and explicitly does NOT include advanced features. This sets proper expectations and prevents users from going through the entire workflow only to discover the limitations don't match their requirements.
 
-Workflow: [welcomne.md](/.cursor/workflows/welcome.md)
+Workflow: [welcome.md](/.cursor/workflows/welcome.md)
 
 ### 1. Initial discovery
 
