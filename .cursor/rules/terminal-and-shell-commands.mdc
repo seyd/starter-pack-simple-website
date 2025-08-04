@@ -1,0 +1,12 @@
+---
+description: Terminal and shell command rules
+alwaysApply: false
+---
+
+# Terminal and Shell Command Rules
+
+## Shell Command Paths
+
+- **Always use forward slashes (/) instead of backslashes (\) when writing paths in shell commands**
+- This rule is important when using Git Bash on Windows
+- Forward slashes work universally across different shells and operating systems
