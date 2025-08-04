@@ -5,18 +5,7 @@
 ## Instructions for the agent
 
 - This workflow is used after the generation of a new document <document name> (mentioned in the context before)
-- Say to the user that a new document has been generated and recommend to open/read and review it and print the link to the document in the chat with icon 📄 <document name> (and src of the link will point to the exact path of the document in the project) and add text "(click to open)"
-
-- Stop here and ask the user:
-
-  ```
-  ## ❓ Want you review the document in editor by yourself?
-  - ✅ "Yes, continue" - I have already reviewed the document and want to continue the process
-  - 👀 "No, print it here" - to print the document in the chat
-  ```
-
-  - If the user responds with "Yes", continue the process.
-  - If the user responds with something like "No, print it here", print the document in the chat in formatted markdown and then continue the process.
+- Say to the user that a new document has been generated and recommend to open/read and review it and print the link to the document in the chat with icon 📄 <document name> (and src of the link will point to the exact path of the document in the project starting with `/doc/...`) and add text "(click to open)"
 
 - Stop here and ask the user:
 

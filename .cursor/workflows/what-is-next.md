@@ -67,9 +67,17 @@ Workflow: [create-08-technical-specifications.md](/.cursor/workflows/create-08-t
 
 ### 9. Development setup
 
+Development setup is the phase where we install the necessary tools and dependencies to start the development of the website.
+
 Workflow: [create-09-development-setup.md](/.cursor/workflows/create-09-development-setup.md)
 
-### 10. Individual change requests
+### 10. First draft of the website
+
+First draft of the website is the phase where we create a first draft of the website based on the current documentation.
+
+Workflow: [create-10-first-draft.md](/.cursor/workflows/create-10-first-draft.md)
+
+### 11. Individual change requests
 
 Workflow: none
 

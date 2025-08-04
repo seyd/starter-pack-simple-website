@@ -23,4 +23,4 @@
   - Update the output document as many times as needed.
 
 - **IMPORTANT**: don't forget toalways follow the workflow [update-tasks.md](/.cursor/workflows/update-tasks.md)
-(except for the phase "0. Disclaimer" - do not create task file for this phase)
+  (except for the phase "0. Disclaimer" - do not create task file for this phase)

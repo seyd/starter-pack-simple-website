@@ -69,7 +69,7 @@ You are an expert in web development and technical architecture, and your goal i
 
 - do not use emojis in the web site content
 
-- do not run the project with `npm run dev` or `astro dev` command, just suggest the user to run the project with the command: `npm run dev` or ask if he wants to run it by the agent
+- do not run the project with `npm run dev` or `astro dev` command, just suggest the user to run the project with the command: `npm run dev` or ask if he wants to run it by the agent (check the code validity with `npm run lint` command or `npm run build` command)
 
 - create complete dynamic functionality for all the pages and components
 

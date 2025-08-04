@@ -37,6 +37,7 @@
     ```
 
 - Task workflow:
+
   - all TODOs are listed in "📋 Todo" section at first
 
   - if you start working on the specific task, move it in the "🔨 In Progress" section
