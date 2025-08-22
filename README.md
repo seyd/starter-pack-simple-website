@@ -1,8 +1,8 @@
-# Starter Pack - Simple website
+# Starter Pack - Simple website with AI
 
 ## Overview
 
-This is a **starter pack for simple websites** designed for individual makers who need a basic web presence without complex technical requirements. The focus is on **static content** with minimal dynamic functionality.
+This is a **starter pack for simple websites using AI agent to do the work**, designed for individual makers who need a basic web presence without complex technical requirements. The focus is on **static content** with minimal dynamic functionality.
 
 ## Target Use Cases
 
