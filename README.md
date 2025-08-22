@@ -86,6 +86,41 @@ Similarly, there's **no need for a user management system** (even for multi-auth
 
 The **automatic deployment** via Git push functions like a CMS but without the web interface. Content management is done through the Cursor Editor or even mobile app for managing Background Workers.
 
+## Before you start
+
+### Install essential tools
+
+Follow the instructions in the [**Basic AI Tools Installation**](https://docs.google.com/document/d/1RFOq_Zr1AWF6EJa7zWMhNPBFQ90NMOlz_5bw5B4n2TA) file to install the essential tools:
+
+- GIT
+- Node.js
+- Cursor IDE
+
+### Clone this project
+
+You can clone this project using the following command:
+
+1. Open the terminal (e.g. Git Bash)
+2. Navigate to the directory where you want to clone the project (to the parent folder - new project folder will be created there)
+3. Clone the project using the following command:
+
+```bash
+git clone https://github.com/seyd/starter-pack-simple-website.git <new-project-name>
+```
+
+> **Note:** Replace `<new-project-name>` with the name of your new project (it will be used as a name of the project folder).
+
+4. Navigate to the project folder:
+
+```bash
+cd <new-project-name>
+```
+
+### Open the project in Cursor IDE
+
+1. Open Cursor IDE
+2. Open the project folder: File > Open Folder > `<new-project-name>`
+
 ## Getting Started
 
 Users should begin with the pre-configured starter pack and use the chat interface to:
